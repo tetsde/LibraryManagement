@@ -1,4 +1,4 @@
-# Hệ thống Quản lý Thư viện V2 📚
+# Hệ thống Quản lý Thư viện 📚
 
 <div align="center">
   <img src="docs/images/architecture.png" alt="System Architecture" width="600"/>
@@ -419,15 +419,14 @@ Dự án này được phân phối dưới giấy phép **MIT License**. Xem fi
 **Tong Phuoc Hoai Nam**
 
 - GitHub: [@tetsde](https://github.com/tetsde)
-- Email: hoainam@example.com
-
+- Email: tphn26.work@gmail.com
 ---
 
 ## 📞 Liên hệ & Hỗ trợ
 
 - 🐛 Báo lỗi: [GitHub Issues](https://github.com/tetsde/LibrarySystemV2/issues)
 - 💬 Thảo luận: [GitHub Discussions](https://github.com/tetsde/LibrarySystemV2/discussions)
-- 📧 Email: hoainam@example.com
+- 📧 Email: tphn26.work@gmail.com
 
 ---
 
